@@ -19,8 +19,8 @@ namespace CSPractice1
             /*** XML 주석***/
 
             // 출력
-            Console.WriteLine("Hello World");
-            Console.Write("뉴라인X");
+            Console.WriteLine("Hello World ");
+            Console.Write("뉴라인X ");
 
             // #1 12-3. 기본 자료형 
             // 정수 
