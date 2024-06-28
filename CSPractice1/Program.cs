@@ -83,6 +83,10 @@ namespace CSPractice1
             // #1 12-9. 입력
             string input = Console.ReadLine();
             Console.WriteLine(input);
+
+            // #1 12-10. 자료형 변환
+            // 굉장히 중요
+
         }
     }
 }
